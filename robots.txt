@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-3lsg76.salamcuan.online/sitemap.xml
